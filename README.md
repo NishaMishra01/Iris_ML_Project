@@ -21,6 +21,8 @@ scikit-learn has a function that shuffles and splits the data set: the train_tes
 now building the actual model with the use of Logistic Regression. To make the prediction for a new data point.
 also use the score method to compute the test set accuracy.
 
+And at last deployed the project with the use of Tkinter.
+
 ![im1](https://user-images.githubusercontent.com/67326624/86380780-22a62f00-bcaa-11ea-8592-c99db80c4d01.png)
 ![im2](https://user-images.githubusercontent.com/67326624/86380826-318ce180-bcaa-11ea-8209-369e2ce20974.png)
 ![im3](https://user-images.githubusercontent.com/67326624/86380867-3b164980-bcaa-11ea-92ea-4a9cdf84d4ff.png)
